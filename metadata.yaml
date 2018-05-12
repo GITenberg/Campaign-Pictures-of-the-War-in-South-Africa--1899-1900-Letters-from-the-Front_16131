@@ -1,0 +1,30 @@
+_repo: Campaign-Pictures-of-the-War-in-South-Africa--1899-1900-Letters-from-the-Front_16131
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hales, A. G. (Alfred Greenwood)
+    alias: Hales, Alfred Greenwood
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '6505'
+    url: http://www.gutenberg.org/2009/agents/6505
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2005-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+- !lcc 'DT'
+title: 'Campaign Pictures of the War in South Africa (1899-1900)
+
+  Letters from the Front'
+url: http://www.gutenberg.org/ebooks/16131
